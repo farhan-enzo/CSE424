@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1D15vTpJCHTAgMwZkfdzzyjS3l6NbOs1Kfv50le74nho/edit?usp=sharing
 
 Project title:
-2023 Summer CSE424 Smart OCR for Recognising Bangla Characters. 
+Enhancing OCR in Bangla Characters through Image Enhancement and CNN
 
 Group Number:
 30
