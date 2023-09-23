@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent
 
 Paper title:
-Smart OCR for Recognizing Bangla Characters
+Enhancing OCR in Bangla Characters through Image Enhancement and CNN
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1vYz440t059xQ8k2VBX1SrTTcsxLi2qO3diqLHGjHXMw/edit?usp=sharing
